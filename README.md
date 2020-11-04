@@ -28,10 +28,17 @@ The following tools were used to build this project:
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [SQLite](https://www.sqlite.org/index.html)
+
+And some important packages used were:
+
+- [Multer](https://github.com/expressjs/multer): File uploading
+- [TypeORM](https://typeorm.io/): ORM (Object-Relations-Management Module)
+- [Yup](https://github.com/jquense/yup): Data Validation
 
 ### Author
 
-<img src="https://avatars1.githubusercontent.com/u/65819100?s=460&u=418b9bd94f4f9bcd2f3494bfd7b3a8ab8fd08662&v=4" width="100px;" alt=""/>
+<img src="https://avatars1.githubusercontent.com/u/65819100?s=460&u=418b9bd94f4f9bcd2f3494bfd7b3a8ab8fd08662&v=4" width="100px;" alt="Avatar"/>
 
 Made with ❣️ by Bruna Monarin 
 
